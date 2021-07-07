@@ -1,3 +1,5 @@
+### Currently in use by [Fletcher](https://github.com/codelittinc/fletcher/blob/develop/Gemfile#L51)
+
 # ruby-pptx
 
 A ruby Gem for writing PPTX (Powerpoint) files. Right now, it's functionality is limited, it only allows adding textboxes with formatting and pictures to slides.
